@@ -1,3 +1,4 @@
 function testfunctie(){
-    document.getElementById("javascript_test").innerHTML = "JAVASCIPT WERKT"
+    document.getElementById("test").innerHTML = "JAVASCIPT WERKT";
+    <p id="test"></p>
 }
